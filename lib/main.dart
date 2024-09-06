@@ -118,86 +118,78 @@ class _MyHomePageState extends State<MyHomePage> {
             ? Text('No news available')
             : Stack(
                 children: [
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: PageView.builder(
-                      controller: _pageController,
-                      itemCount: _news.length,
-                      itemBuilder: (context, index) {
-                        return Card(
-                          color: Colors.grey[200],
-                          child: InkWell(
-                            onTap: () {
-                              Uri? newsUrl = _news[index].newsUrl != null
-                                  ? Uri.parse(_news[index].newsUrl!)
-                                  : null;
-                            },
-                            child: Padding(
-                              padding: const EdgeInsets.all(20.0),
-                              child: Column(
-                                crossAxisAlignment: CrossAxisAlignment.start,
-                                children: [
-                                  Text(
-                                    _news[index].title,
-                                    style: const TextStyle(
-                                      fontWeight: FontWeight.bold,
-                                      fontSize: 18,
-                                    ),
-                                    maxLines: 5,
-                                    overflow: TextOverflow.ellipsis,
-                                    softWrap: true,
+                  PageView.builder(
+                    controller: _pageController,
+                    itemCount: _news.length,
+                    itemBuilder: (context, index) {
+                      return Card(
+                        color: Colors.grey[200],
+                        child: InkWell(
+                          onTap: () {
+                            Uri? newsUrl = _news[index].newsUrl != null
+                                ? Uri.parse(_news[index].newsUrl!)
+                                : null;
+                          },
+                          child: Padding(
+                            padding: const EdgeInsets.all(20.0),
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                              children: [
+                                Text(
+                                  _news[index].title,
+                                  style: const TextStyle(
+                                    fontWeight: FontWeight.bold,
+                                    fontSize: 18,
                                   ),
-                                  SizedBox(height: 8),
-                                  Text(
-                                    _news[index].snippet,
-                                    maxLines: 10,
-                                    overflow: TextOverflow.ellipsis,
-                                    softWrap: true,
+                                  maxLines: 5,
+                                  overflow: TextOverflow.ellipsis,
+                                  softWrap: true,
+                                ),
+                                SizedBox(height: 8),
+                                if (_news[index].images != null)
+                                  Image.network(
+                                    _news[index].images!.thumbnail,
+                                    fit: BoxFit.cover,
+                                    width: MediaQuery.of(context).size.width,
                                   ),
-                                  SizedBox(height: 8),
-                                  if (_news[index].images != null)
-                                    Image.network(
-                                      _news[index].images!.thumbnail,
-                                      fit: BoxFit.cover,
-                                      width: MediaQuery.of(context)
-                                          .size
-                                          .width, // Set width to screen width
-                                    ),
-                                  SizedBox(height: 8),
-                                  Text(
-                                    _news[index].publisher,
-                                    style: TextStyle(
-                                      color: Colors.grey[600],
-                                    ),
+                                SizedBox(height: 8),
+                                Text(
+                                  _news[index].snippet,
+                                  maxLines: 10,
+                                  overflow: TextOverflow.ellipsis,
+                                  softWrap: true,
+                                ),
+                                SizedBox(height: 8),
+                                Text(
+                                  _news[index].publisher,
+                                  style: TextStyle(
+                                    color: Colors.grey[600],
                                   ),
-                                ],
-                              ),
+                                ),
+                              ],
                             ),
                           ),
-                        );
-                      },
+                        ),
+                      );
+                    },
+                  ),
+                  Positioned(
+                    left: 0,
+                    top: MediaQuery.of(context).size.height / 2,
+                    child: IconButton(
+                      icon: Icon(Icons.arrow_back_ios_new_outlined),
+                      onPressed: _previousPage,
+                      iconSize: 10,
                     ),
                   ),
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Align(
-                      alignment: Alignment.centerLeft,
-                      child: IconButton(
-                        icon: Icon(Icons.arrow_back_ios_outlined),
-                        onPressed: _previousPage,
-                        iconSize: 20,
-                      ),
-                    ),
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Align(
-                      alignment: Alignment.centerRight,
-                      child: IconButton(
-                        icon: Icon(Icons.arrow_forward_ios_outlined),
-                        onPressed: _nextPage,
-                        iconSize: 20,
-                      ),
+                  Positioned(
+                    right: 0,
+                    top: MediaQuery.of(context).size.height / 2,
+                    child: IconButton(
+                      icon: Icon(Icons.arrow_forward_ios_outlined),
+                      onPressed: _nextPage,
+                      iconSize: 10,
                     ),
                   ),
                 ],
