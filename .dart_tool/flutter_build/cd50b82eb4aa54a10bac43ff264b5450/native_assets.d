@@ -1,0 +1,1 @@
+ /Users/pgms/Documents/GitHub/news_app_challenge/.dart_tool/flutter_build/cd50b82eb4aa54a10bac43ff264b5450/native_assets.yaml: 

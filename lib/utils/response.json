@@ -1,0 +1,870 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "title": "Friday’s jobs report will likely determine the size of the Fed’s rate cut",
+      "snippet": "The US economy appears to be on a knife's edge, and Friday's jobs report will be the deciding factor as to the next direction.",
+      "publisher": "CNN",
+      "timestamp": "1725615000000",
+      "newsUrl": "https://www.cnn.com/2024/09/06/economy/us-jobs-report-august-final/index.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNURaMEpJWVVORWFYUkNjbGxyVFJDZkF4amlCU2dLTWdrcEE0aE9sYU5VWWdN=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNURaMEpJWVVORWFYUkNjbGxyVFJDZkF4amlCU2dLTWdrcEE0aE9sYU5VWWdN"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Friday's jobs report for August is going to be huge. Here's what to expect",
+          "snippet": "The Wall Street consensus is for nonfarm payrolls growth of 161000 for August and a slight decline in the unemployment rate to 4.2%.",
+          "publisher": "CNBC",
+          "timestamp": "1725556081000",
+          "newsUrl": "https://www.cnbc.com/2024/09/05/fridays-jobs-report-for-august-is-going-to-be-huge-heres-what-to-expect.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNUZTbHBFUVVwalkxQnJYemQ0VFJDZkF4ampCU2dLTWdzQkVKU3lrT3JRYVZyVGNn=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNUZTbHBFUVVwalkxQnJYemQ0VFJDZkF4ampCU2dLTWdzQkVKU3lrT3JRYVZyVGNn"
+          }
+        },
+        {
+          "title": "Live: Analysis of US Jobs Report for August",
+          "snippet": "Welcome to TOPLive's blog coverage of the US employment report for August. Since Federal Reserve Chair Jerome Powell indicated that an interest rate ...",
+          "publisher": "Bloomberg",
+          "timestamp": "1725622922000",
+          "newsUrl": "https://www.bloomberg.com/news/live-blog/2024-09-06/us-employment-report-for-august?ref=biztoc.com",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpTbkZuTkZRdFkzbFhiVXhxVFJERUF4aW1CU2dLTWdZQk1aaVhFQXM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpTbkZuTkZRdFkzbFhiVXhxVFJERUF4aW1CU2dLTWdZQk1aaVhFQXM"
+          }
+        },
+        {
+          "title": "Economists brace for most highly anticipated jobs report since the pandemic",
+          "snippet": "August jobs data, to be released Friday by the Labor Department, will be closely watched by economists and the Federal Reserve for signs of recession.",
+          "publisher": "The Washington Post",
+          "timestamp": "1725624443000",
+          "newsUrl": "https://www.washingtonpost.com/business/2024/09/06/august-jobs-unemployment-labor-market/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdPVVYxVldZMFkyOVhRMnBmVFJERUF4aW1CU2dLTWdZVklKYUhwZ2c=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHdPVVYxVldZMFkyOVhRMnBmVFJERUF4aW1CU2dLTWdZVklKYUhwZ2c"
+          }
+        },
+        {
+          "title": "Today’s jobs report could mark a pivotal moment for the US economy",
+          "snippet": "Friday's monthly jobs report will likely mark a pivotal moment for the economy and the Federal Reserve.",
+          "publisher": "The Associated Press",
+          "timestamp": "1725619020000",
+          "newsUrl": "https://apnews.com/article/jobs-hiring-federal-reserve-inflation-unemployment-economy-bac1b453d3873d5f23f2061344d28fd9",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9OamgwV21aaFlWRlBNR1IyVFJDUEF4alhCQ2dLTWdhUlFZcnFvUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9OamgwV21aaFlWRlBNR1IyVFJDUEF4alhCQ2dLTWdhUlFZcnFvUWM"
+          }
+        },
+        {
+          "title": "Wall Street is on pins and needles waiting for Friday’s pivotal jobs report",
+          "snippet": "Markets are prepped for what some economists are calling the most consequential piece of data in years: the August jobs report from the Department of Labor.",
+          "publisher": "CNN",
+          "timestamp": "1725620760000",
+          "newsUrl": "https://www.cnn.com/business/live-news/us-jobs-report-august-2024/index.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXRNVTFpYWtkVFREUlRhMFZtVFJERUF4aW1CU2dLTWdrQklKQkNKaWdXWndJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXRNVTFpYWtkVFREUlRhMFZtVFJERUF4aW1CU2dLTWdrQklKQkNKaWdXWndJ"
+          }
+        },
+        {
+          "title": "Stocks Fall Ahead of Jobs Report as Investors Eye Fed Rate Cuts: Live Updates",
+          "snippet": "Ahead of a key Federal Reserve meeting to set interest rates, economists predict a modest bounce in hiring in August from an unexpectedly sluggish July.",
+          "publisher": "The New York Times",
+          "timestamp": "1725622882000",
+          "newsUrl": "https://www.nytimes.com/live/2024/09/06/business/jobs-report-august-economy",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJWa3RQVldkeVUzVmthVUpEVFJDUUF4allCQ2dLTWdZRmtJaHB2UVE=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJWa3RQVldkeVUzVmthVUpEVFJDUUF4allCQ2dLTWdZRmtJaHB2UVE"
+          }
+        }
+      ]
+    },
+    {
+      "title": "S&P 500 futures fall as traders gear up for big August jobs report: Live updates",
+      "snippet": "The major averages are on track for a losing week as Friday's jobs report looms.",
+      "publisher": "CNBC",
+      "timestamp": "1725624600000",
+      "newsUrl": "https://www.cnbc.com/2024/09/05/stock-market-today-live-updates.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtNMkpwYkhGd2EwRnhSbk5LVFJDZkF4ampCU2dLTWdhUlFZWm5HZ2s=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUtNMkpwYkhGd2EwRnhSbk5LVFJDZkF4ampCU2dLTWdhUlFZWm5HZ2s"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Stock market today: Nasdaq futures lead markets lower ahead of crucial jobs report",
+          "snippet": "US stock futures pulled back on Friday as investors braced for a crucial jobs report to provide clues to the size of this month's expected interest-rate cut ...",
+          "publisher": "Yahoo Finance",
+          "timestamp": "1725619290000",
+          "newsUrl": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-futures-lead-markets-lower-ahead-of-crucial-jobs-report-103835660.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVZWRTFHVVcxbVJtcFZZVjg0VFJERUF4aW1CU2dLTWdhQlFaRE5HUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVZWRTFHVVcxbVJtcFZZVjg0VFJERUF4aW1CU2dLTWdhQlFaRE5HUWs"
+          }
+        },
+        {
+          "title": "Dow Jones Today: Stock Futures Move Lower Ahead of Highly Anticipated August Jobs Report",
+          "snippet": "Futures tied to major U.S. stock indexes were lower Friday ahead of the eagerly anticipated release of labor market data that will shed light on the health ...",
+          "publisher": "Investopedia",
+          "timestamp": "1725621349000",
+          "newsUrl": "https://www.investopedia.com/dow-jones-today-09062024-8707427",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxWbkJUU3pKVVpVaFNhRlIwVFJDNEFSaVJBaWdCTWdZQkFJWUFud00=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWxWbkJUU3pKVVpVaFNhRlIwVFJDNEFSaVJBaWdCTWdZQkFJWUFud00"
+          }
+        },
+        {
+          "title": "Jobs Report Today: Nasdaq, S&P 500 Futures Fall Ahead of Jobs Report",
+          "snippet": "Economists forecast that 161000 jobs were created in August, more than in July. Follow along for live updates on stocks and markets, including the Dow Jones ...",
+          "publisher": "The Wall Street Journal",
+          "timestamp": "1725624540000",
+          "newsUrl": "https://www.wsj.com/livecoverage/jobs-report-stock-market-dow-sp500-nasdaq-live-09-06-2024",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlYM1ZHUlZSdVJIbE9jWFU0VFJEaEFSamhBU2dCTWdhaGRKQ05yUVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHlYM1ZHUlZSdVJIbE9jWFU0VFJEaEFSamhBU2dCTWdhaGRKQ05yUVk"
+          }
+        },
+        {
+          "title": "Business",
+          "snippet": "Stockmarkets had their worst trading session since early August's rout amid more fears of an economic slowdown. Tech companies suffered the most, ...",
+          "publisher": "The Economist",
+          "timestamp": "1725541002000",
+          "newsUrl": "https://www.economist.com/the-world-this-week/2024/09/05/business",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU1jWHBHYzBwMk9WOUlkVTV0VFJDZkF4ampCU2dLTWdZRlY0d3FwZ2M=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU1jWHBHYzBwMk9WOUlkVTV0VFJDZkF4ampCU2dLTWdZRlY0d3FwZ2M"
+          }
+        },
+        {
+          "title": "Stock Market Today: Stocks slide ahead of key August jobs report",
+          "snippet": "Friday's August jobs report will provide both a test of the health of the U.S. economy and clarification of the size of the coming Fed rate cut.",
+          "publisher": "TheStreet",
+          "timestamp": "1725617274000",
+          "newsUrl": "https://www.thestreet.com/investing/stocks/stock-market-today-stocks-slide-ahead-of-key-august-jobs-report",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVpkblZaZG5kTVlrSlRkamgwVFJDZkF4ampCU2dLTWdZQkVKUnVtQWs=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVpkblZaZG5kTVlrSlRkamgwVFJDZkF4ampCU2dLTWdZQkVKUnVtQWs"
+          }
+        },
+        {
+          "title": "S&P 500 Falls as Anxiety Brews in Run-Up to Jobs: Markets Wrap",
+          "snippet": "Stocks whipsawed ahead of US jobs data that will be key in determining the size of a Federal Reserve rate cut in September.",
+          "publisher": "Bloomberg",
+          "timestamp": "1725489240000",
+          "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-04/stock-market-today-dow-s-p-live-updates",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhXR05GUzBKaFgwSmtYMFJRVFJDb0FSaXNBaWdCTWdhcFpJQ3VxUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHhXR05GUzBKaFgwSmtYMFJRVFJDb0FSaXNBaWdCTWdhcFpJQ3VxUWM"
+          }
+        }
+      ]
+    },
+    {
+      "title": "7-Eleven owner rejects $38.7bn buyout offer from rival",
+      "snippet": "The Japanese owner of convenience store chain 7-Eleven has rejected a $38bn (£29.2bn) takeover bid from Canadian rival Alimentation Couche-Tard.",
+      "publisher": "BBC.com",
+      "timestamp": "1725612834000",
+      "newsUrl": "https://www.bbc.com/news/articles/cz9w74dwkgno",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVhV3hsTVVNMFdHOXBjRTUzVFJDZkF4ampCU2dLTWdZQk1ZcEp1Z1E=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXVhV3hsTVVNMFdHOXBjRTUzVFJDZkF4ampCU2dLTWdZQk1ZcEp1Z1E"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Japanese 7-Eleven convenience store chain operator turns down Couche-Tard takeover offer",
+          "snippet": "TOKYO (AP) — The parent company of the Japanese 7-Eleven convenience store chain said Friday that it's turning down a takeover offer from Alimentation ...",
+          "publisher": "KXAN.com",
+          "timestamp": "1725624561000",
+          "newsUrl": "https://www.kxan.com/news/business/ap-business/ap-japanese-7-eleven-convenience-store-chain-operator-turns-down-couche-tard-takeover-offer/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWZjeTF2VUhkRFIwRm9SbFphVFJESUFSaklBU2dLTWdPTllnWQ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWZjeTF2VUhkRFIwRm9SbFphVFJESUFSaklBU2dLTWdPTllnWQ"
+          }
+        },
+        {
+          "title": "7-Eleven's parent company rejects $38.6 billion takeover bid, says offer 'grossly undervalues' company",
+          "snippet": "The company said the proposal was \"opportunistically timed and grossly undervalues our standalone path and the additional actionable avenues we see to ...",
+          "publisher": "CNBC",
+          "timestamp": "1725594780000",
+          "newsUrl": "https://www.cnbc.com/2024/09/06/7-elevens-parent-company-rejects-takeover-proposal-says-offer-grossly-undervalues-company.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWxja0pMWDFkNk4yaElSRnA0VFJDZkF4ampCU2dLTWdrQlFJTExVU05VYVFJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWxja0pMWDFkNk4yaElSRnA0VFJDZkF4ampCU2dLTWdrQlFJTExVU05VYVFJ"
+          }
+        },
+        {
+          "title": "7-Eleven Rejects Takeover Bid From Big Canadian Chain",
+          "snippet": "The owner of 7-Eleven has rejected a buyout offer from a Canadian convenience store giant, snubbing a deal that likely would have been the largest ...",
+          "publisher": "The New York Times",
+          "timestamp": "1725594039000",
+          "newsUrl": "https://www.nytimes.com/2024/09/05/business/7-eleven-rejects-couch-tarde-bid.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXphbk5oVUZaWmFtZDNjRGhNVFJDdUF4allCQ2dLTWdZQmNKSUVKd2c=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXphbk5oVUZaWmFtZDNjRGhNVFJDdUF4allCQ2dLTWdZQmNKSUVKd2c"
+          }
+        },
+        {
+          "title": "7-Eleven rejects multibillion-dollar offer from Circle K owner for huge convenience store merger",
+          "snippet": "The operator of 7-Eleven has rejected an opening offer from the owner of convenience store rival Circle K, saying its business is worth more.",
+          "publisher": "CNN",
+          "timestamp": "1725595200000",
+          "newsUrl": "https://www.cnn.com/2024/09/06/business/japan-7-eleven-rejects-merger-offer-intl-hnk/index.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDFWVVZrZVhONGNHRmtiR05QVFJDZkF4amlCU2dLTWdrTlFJcHdJT21wN2dF=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDFWVVZrZVhONGNHRmtiR05QVFJDZkF4amlCU2dLTWdrTlFJcHdJT21wN2dF"
+          }
+        },
+        {
+          "title": "Japan’s Billionaire Ito Family’s 7-Eleven Chain Rejects $39 Billion Bid From Circle K Owner",
+          "snippet": "S even & i Holdings, the Japanese owner of the global 7-Eleven convenience store chain, has rejected the takeover offer from Canada's Alimentation ...",
+          "publisher": "Forbes",
+          "timestamp": "1725615012000",
+          "newsUrl": "https://www.forbes.com/sites/zinnialee/2024/09/06/japans-billionaire-ito-familys-7-eleven-chain-rejects-39-billion-bid-from-circle-k-owner/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRjVVJPUVhwaGJrdFJaVnBCVFJERUF4aW1CU2dLTWdZQlFJeW93Z1E=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRjVVJPUVhwaGJrdFJaVnBCVFJERUF4aW1CU2dLTWdZQlFJeW93Z1E"
+          }
+        },
+        {
+          "title": "Japan's Seven & i rejects Couche-Tard's $38.5 bln takeover offer",
+          "snippet": "Japanese retail giant Seven & i Holdings said on Friday it had turned down Canada's Alimentation Couche-Tard's $38.5 billion cash bid, rejecting an offer ...",
+          "publisher": "Reuters",
+          "timestamp": "1725609360000",
+          "newsUrl": "https://www.reuters.com/markets/deals/seven-i-says-couche-tards-1486-per-share-offer-is-not-adequate-2024-09-06/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhhRGRNVWtVMFlXWllNbXBRVFJESEF4aWhCU2dLTWdZQkVKQkFtd2s=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVhhRGRNVWtVMFlXWllNbXBRVFJESEF4aWhCU2dLTWdZQkVKQkFtd2s"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The 35-Year-Old CEO Plotting Red Lobster’s Comeback",
+      "snippet": "The former P.F. Chang's leader promises better service, food and interiors, but no more $20 unlimited shrimp on the standard menu.",
+      "publisher": "The Wall Street Journal",
+      "timestamp": "1725615000000",
+      "newsUrl": "https://www.wsj.com/business/hospitality/the-35-year-old-ceo-plotting-red-lobsters-comeback-3c79d1a3",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVljR2N6ZDFoNWQyTTVUbTVQVFJDcUJCaXFCQ2dLTWdZdFpaak9wUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVljR2N6ZDFoNWQyTTVUbTVQVFJDcUJCaXFCQ2dLTWdZdFpaak9wUWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Europe stocks lower for fifth session as U.S. data weighs; Volvo Cars down 4%",
+      "snippet": "European stock markets saw a fifth straight negative start to the week as the global outlook turns negative.",
+      "publisher": "CNBC",
+      "timestamp": "1725604335000",
+      "newsUrl": "https://www.cnbc.com/2024/09/06/europe-markets-us-jobs-report-airbus-insection.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpjRzV6Y1hwcFdtVnZOazVLVFJDZkF4ampCU2dLTWdhZEJJckpFUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUpjRzV6Y1hwcFdtVnZOazVLVFJDZkF4ampCU2dLTWdhZEJJckpFUW8"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "European shares drop on caution ahead of US payrolls report",
+          "snippet": "European shares slipped for a fifth straight session on Friday as caution prevailed ahead of the crucial U.S. jobs data, the last such labour market report ...",
+          "publisher": "Reuters",
+          "timestamp": "1725610980000",
+          "newsUrl": "https://www.reuters.com/markets/europe/european-shares-slide-ahead-us-payrolls-report-2024-09-06/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNYMWhwUjNCcGFHeHhhME0xVFJEUEF4aVdCU2dLTWdZQlFJSnFMUVU=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDNYMWhwUjNCcGFHeHhhME0xVFJEUEF4aVdCU2dLTWdZQlFJSnFMUVU"
+          }
+        },
+        {
+          "title": "European stocks slip lower; risk sentiment fragile ahead of payrolls",
+          "snippet": "Investing.com - European stock markets drifted lower Thursday, trading in a subdued manner ahead of the key monthly US jobs report amid renewed concerns ...",
+          "publisher": "Investing.com",
+          "timestamp": "1725520535000",
+          "newsUrl": "https://www.investing.com/news/stock-market-news/european-stocks-slip-lower-risk-sentiment-fragile-ahead-of-payrolls-3602133",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBVRVpZZVhGd01HOXljbkU1VFJDZEFSakJBaWdCTWdZVk1JRnkzQUU=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTBVRVpZZVhGd01HOXljbkU1VFJDZEFSakJBaWdCTWdZVk1JRnkzQUU"
+          }
+        },
+        {
+          "title": "European Stocks Little Moved On Labor Day, German DAX Mark Record Close, Natural Gas Futures Rise: What's Driving Markets Monday?",
+          "snippet": "Global markets started September cautiously, with thin trading volumes as U.S. stock markets were closed for the Labor Day holiday.",
+          "publisher": "Benzinga",
+          "timestamp": "1725304540000",
+          "newsUrl": "https://www.benzinga.com/24/09/40677477/european-stocks-little-moved-on-labor-day-german-dax-mark-record-close-natural-gas-futures-rise-what",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNXlVRXRXTm5kTGFWOTNYMFowVFJERUF4aW1CU2dLTWdzRlFJckZ2S1FkSmpyd1BR=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNXlVRXRXTm5kTGFWOTNYMFowVFJERUF4aW1CU2dLTWdzRlFJckZ2S1FkSmpyd1BR"
+          }
+        },
+        {
+          "title": "Global markets await US economic data",
+          "snippet": "Several key indicators are due over the next few days.",
+          "publisher": "InvestmentNews",
+          "timestamp": "1725363531000",
+          "newsUrl": "https://www.investmentnews.com/industry-news/global-markets-await-us-economic-data/256961",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBjVVkwTW5Kc09IcGZTVEU1VFJDM0FSaVRBaWdCTWdhVlFJalVuQVU=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVBjVVkwTW5Kc09IcGZTVEU1VFJDM0FSaVRBaWdCTWdhVlFJalVuQVU"
+          }
+        },
+        {
+          "title": "European Midday Briefing : U.S. Jobs Report Awaited for Fed Rate Cut Clues",
+          "snippet": "MARKET WRAPS Stocks: European indexes were lower again on Friday as investors remained skittish after recent U.S. data has given mixed signals on the ...",
+          "publisher": "Marketscreener.com",
+          "timestamp": "1725614655000",
+          "newsUrl": "https://www.marketscreener.com/quote/currency/EURO-US-DOLLAR-EUR-USD-4591/news/European-Midday-Briefing-U-S-Jobs-Report-Awaited-for-Fed-Rate-Cut-Clues-47819369/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBXak5RYkhwQ05VMTJUREZuVFJDRUFoakJBeWdLTWdZSllZb3NyUVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVBXak5RYkhwQ05VMTJUREZuVFJDRUFoakJBeWdLTWdZSllZb3NyUVk"
+          }
+        },
+        {
+          "title": "Europe's Main Stock Markets Fall Further At Open",
+          "snippet": "Europe's main stock markets extended losses at the open on Thursday as investors await a key US jobs report that could shed light on the state of the US ...",
+          "publisher": "Barron's",
+          "timestamp": "1725521450000",
+          "newsUrl": "https://www.barrons.com/news/europe-s-main-stock-markets-fall-further-at-open-0df5b4c9",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJkNnNTZkRVE1UkhWdFkzY3RTVmx2VFJBOEdOZ0VLQW95QTRHSEZn=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJkNnNTZkRVE1UkhWdFkzY3RTVmx2VFJBOEdOZ0VLQW95QTRHSEZn"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Don't bash Buffett. His Berkshire Hathaway has 'pummeled' the S&P 500",
+      "snippet": "It's payrolls Friday. Good luck to anyone betting beforehand on how the market will react to stronger or weaker than expected jobs growth.",
+      "publisher": "MarketWatch",
+      "timestamp": "1725618660000",
+      "newsUrl": "https://www.marketwatch.com/story/dont-bash-buffett-his-berkshire-hathaway-has-pummeled-the-s-p-500-says-this-fund-manager-303891b7",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJNVGszYzNNNVVYcHNielExVFJDcUJCaXFCQ2dLTWdZbE5ack5IUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVJNVGszYzNNNVVYcHNielExVFJDcUJCaXFCQ2dLTWdZbE5ack5IUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Global equity index slips ahead of US jobs data; oil steadies",
+      "snippet": "MSCI's global equities index edged down on Thursday as investors digested mixed economic data while they anxiously waited for Friday's crucial U.S. jobs ...",
+      "publisher": "Reuters",
+      "timestamp": "1725568980000",
+      "newsUrl": "https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-09-05/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVlRVGswV2pCVFpEQkVhWGg2VFJERUF4aW1CU2dLTWdzQklwVFVxR2V4cGFwZ2tn=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNVlRVGswV2pCVFpEQkVhWGg2VFJERUF4aW1CU2dLTWdzQklwVFVxR2V4cGFwZ2tn"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "European and Asia stocks weaken ahead of crucial US jobs data",
+          "snippet": "European and Asian stock markets softened alongside the dollar on Friday as traders awaited the US payrolls data which is likely to determine the size of ...",
+          "publisher": "Financial Times",
+          "timestamp": "1725620098000",
+          "newsUrl": "https://www.ft.com/content/eb21baea-6050-42b2-a17a-c1122e9ae8b4",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDBkMGgyVlVGM1pWVmlRbEZmVFJDS0F4aThCU2dLTWdrQmdvVDB1R1dhekFF=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDBkMGgyVlVGM1pWVmlRbEZmVFJDS0F4aThCU2dLTWdrQmdvVDB1R1dhekFF"
+          }
+        },
+        {
+          "title": "Markets on tenterhooks ahead of key US jobs data",
+          "snippet": "Asian shares clung to tight ranges and the dollar nursed losses on Friday, with investors on tenterhooks ahead of U.S. jobs data that could decide the size ...",
+          "publisher": "Yahoo Finance",
+          "timestamp": "1725588720000",
+          "newsUrl": "https://finance.yahoo.com/news/markets-tenterhooks-ahead-key-us-021225696.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVpSRFZSWW1SR1lVYzBURGRwVFJDckF4aUFCU2dLTWdZTlVJTEduZ2s=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVpSRFZSWW1SR1lVYzBURGRwVFJDckF4aUFCU2dLTWdZTlVJTEduZ2s"
+          }
+        },
+        {
+          "title": "Asia And Europe Markets Mixed; Oil Stays Below $70, Dollar Retreats - Global Markets Today While US Slept",
+          "snippet": "On Wed, US markets closed mixed as labor market data & Fed comments hinted at potential rate cut. Dow gained slightly, S&P & Nasdaq slipped.",
+          "publisher": "Benzinga",
+          "timestamp": "1725534976000",
+          "newsUrl": "https://www.benzinga.com/markets/asia/24/09/40726873/asia-and-europe-markets-mixed-oil-stays-below-70-dollar-retreats-global-markets-today-while-us-slept",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVFjbWd5UVZWdlduZEJXRVJ3VFJERUF4aW1CU2dLTWdNTlFDSQ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVFjbWd5UVZWdlduZEJXRVJ3VFJERUF4aW1CU2dLTWdNTlFDSQ"
+          }
+        },
+        {
+          "title": "ForexLive European FX news wrap: Nervy markets awaiting the US jobs report",
+          "snippet": "Forex news from the European morning session on Sep 6, 2024.",
+          "publisher": "ForexLive",
+          "timestamp": "1725622380000",
+          "newsUrl": "https://www.forexlive.com/news/forexlive-european-fx-news-wrap-nervy-markets-awaiting-the-us-jobs-report-20240906/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRlVmwwUzIxa1MydDJiMmwyVFJDUUF4ajRCU2dLTWdZaHBKS0x0UVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRlVmwwUzIxa1MydDJiMmwyVFJDUUF4ajRCU2dLTWdZaHBKS0x0UVk"
+          }
+        },
+        {
+          "title": "Global Stocks Mixed, U.S. Trading Closed on Labor Day",
+          "snippet": "Global markets were muted on Monday, with U.S. markets closed. Traders are bracing for the arrival of jobs data later in the week which are expected to help ...",
+          "publisher": "Barron's",
+          "timestamp": "1725286920000",
+          "newsUrl": "https://www.barrons.com/articles/stock-market-today-aa9041a6",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlNRkJ5WW1aU2JsWjBibTVyVFJDcUJCaXFCQ2dLTWdZQm1JYUdOZ1k=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXlNRkJ5WW1aU2JsWjBibTVyVFJDcUJCaXFCQ2dLTWdZQm1JYUdOZ1k"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Russian court freezes Raiffeisen shares in local bank, blocking sale",
+      "snippet": "A Russian court froze the shares in Raiffeisen Bank International's local arm, the biggest Western bank in Russia said on Thursday, blocking the sale of the ...",
+      "publisher": "Reuters",
+      "timestamp": "1725605880000",
+      "newsUrl": "https://www.reuters.com/business/finance/raiffeisen-banks-russian-arm-ownership-frozen-ban-imposed-by-court-2024-09-05/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNHljVWRXUVRWclRrTjFOMlJSVFJDUUF4ai1CU2dLTWdNZHdoUQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNHljVWRXUVRWclRrTjFOMlJSVFJDUUF4ai1CU2dLTWdNZHdoUQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The Downside of Falling Interest Rates",
+      "snippet": "While rate cuts are welcome in much of the economy, they pose problems for risk-averse investors who relish high money market and bond yields.",
+      "publisher": "The New York Times",
+      "timestamp": "1725613634000",
+      "newsUrl": "https://www.nytimes.com/2024/09/06/business/interest-rates-falling-downside.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlVV1ZMUzA0NWFYUkhNVTVKVFJDWkF4allCQ2dLTWdhSkk0eHdGUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXlVV1ZMUzA0NWFYUkhNVTVKVFJDWkF4allCQ2dLTWdhSkk0eHdGUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "US job market in 'bad shape,' executive recruiter says",
+      "snippet": "The slowing labor market is flashing troubling signs according to a longtime executive recruiter, who says the U.S. is in a \"job market recession\" right ...",
+      "publisher": "Fox Business",
+      "timestamp": "1725616800000",
+      "newsUrl": "https://www.foxbusiness.com/economy/us-job-market-bad-shape-according-e-recruiter",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBOWGhoVm1saU1FTkJNeTFOVFJDZkF4ampCU2dLTWdZQkVJcUpGQWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBOWGhoVm1saU1FTkJNeTFOVFJDZkF4ampCU2dLTWdZQkVJcUpGQWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "C3.ai, Tesla, U.S. Steel, Nvidia, NIO, Frontier, HPE, ChargePoint, and More Movers",
+      "snippet": "Stocks were mixed Thursday with fresh labor market data making for a muddy picture ahead of the release of the monthly U.S. employment report on Friday.",
+      "publisher": "Barron's",
+      "timestamp": "1725567720000",
+      "newsUrl": "https://www.barrons.com/articles/stock-market-movers-8b411bbc",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHdkRVZqV0ZseWNHWXdORFpMVFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHdkRVZqV0ZseWNHWXdORFpMVFJDcUJCaXFCQ2dLTWdB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "For tech bulls, a troubled AI trade is a buying opportunity: Morning Brief",
+      "snippet": "A harsh September season and regulatory rumblings have prompted louder invitations to get in on Nvidia.",
+      "publisher": "Yahoo Finance",
+      "timestamp": "1725616856000",
+      "newsUrl": "https://finance.yahoo.com/news/for-tech-bulls-a-troubled-ai-trade-is-a-buying-opportunity-morning-brief-100056031.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5aV1V6TldsU0xXTjBlbEp2VFJERUF4aW1CU2dLTWdZSjBZb0lTUVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU5aV1V6TldsU0xXTjBlbEp2VFJERUF4aW1CU2dLTWdZSjBZb0lTUVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Cleveland-Cliffs Commends President Biden’s Reported Decision to Block Foreign Ownership of U.S. Steel by Japan’s Nippon Steel",
+      "snippet": "CLEVELAND--(BUSINESS WIRE)-- Cleveland-Cliffs Inc. (NYSE: CLF) (“Cliffs”) applauded the reported decision by President Biden to officially block the foreign ...",
+      "publisher": "Cleveland Cliffs",
+      "timestamp": "1725569354000",
+      "newsUrl": "https://www.clevelandcliffs.com/news/news-releases/detail/650/cleveland-cliffs-commends-president-bidens-reported",
+      "hasSubnews": false
+    },
+    {
+      "title": "Broadcom forecasts lukewarm quarterly revenue despite AI chip surge, shares fall",
+      "snippet": "Chipmaker Broadcom forecast fourth-quarter revenue slightly below Wall Street expectations on Thursday, hurt by sluggish spending in its broadband segment.",
+      "publisher": "Reuters",
+      "timestamp": "1725575820000",
+      "newsUrl": "https://www.reuters.com/technology/broadcom-beats-third-quarter-revenue-estimates-2024-09-05/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJjMGN3WVhGVWNUUlBTV0p2VFJERUF4aW1CU2dLTWdZZDRJWUxUUVE=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDJjMGN3WVhGVWNUUlBTV0p2VFJERUF4aW1CU2dLTWdZZDRJWUxUUVE"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Verizon to buy Frontier Communications in $20 billion deal to boost fiber network",
+      "snippet": "Verizon announced Thursday it had entered into an agreement to acquire Frontier Communications in a deal valued at $20 billion.",
+      "publisher": "USA TODAY",
+      "timestamp": "1725550374000",
+      "newsUrl": "https://www.usatoday.com/story/money/2024/09/05/verizon-buys-frontier-communications/75084295007/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5RV1kxYjFKeFlrSldPVzVaVFJEMEFoaVVCU2dLTWdhZHRKS3FPUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW5RV1kxYjFKeFlrSldPVzVaVFJEMEFoaVVCU2dLTWdhZHRKS3FPUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Once the envy of the world, Germany's car brands now weigh heavily on its struggling economy",
+      "snippet": "Germany's car industry was once recognized around the world for its high-quality, innovative combustion engine cars. But where is the sector now?",
+      "publisher": "CNBC",
+      "timestamp": "1725599503000",
+      "newsUrl": "https://www.cnbc.com/2024/09/06/once-the-envy-of-the-world-germanys-car-brands-are-weighing-heavily-on-its-struggling-economy.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXpZMnh5UzFKaE9IQlFhSEJ3VFJDZkF4ampCU2dLTWdrQlVJZ0FPQ1FrWmdJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXpZMnh5UzFKaE9IQlFhSEJ3VFJDZkF4ampCU2dLTWdrQlVJZ0FPQ1FrWmdJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Wall Street’s Big Bet on Jumbo Fed Cuts Hangs on Jobs Report",
+      "snippet": "The bold bet from the likes of Citigroup Inc. and JPMorgan Chase & Co. that the Federal Reserve will slash interest rates by a half-percentage-point this ...",
+      "publisher": "Bloomberg",
+      "timestamp": "1725540910000",
+      "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-05/wall-street-s-big-bet-on-jumbo-fed-cuts-hangs-on-us-jobs-report",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXRaVzFOYUVVM1ZGRnBiMWxzVFJERUF4aW1CU2dLTWdhRk1Zb3VxUVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXRaVzFOYUVVM1ZGRnBiMWxzVFJERUF4aW1CU2dLTWdhRk1Zb3VxUVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Feds to probe frequent flyer programs for American Airlines, Delta, Southwest and United",
+      "snippet": "The Biden administration is looking at the four largest U.S. airline frequent-flyer programs and how they devalue points that travelers have earned and ...",
+      "publisher": "CBS News",
+      "timestamp": "1725568886000",
+      "newsUrl": "https://www.cbsnews.com/news/airline-frequent-flyer-programs-american-airlines-delta-southwest-united/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUdWVWhsYW5SM1RHNVBRMHRLVFJDUkF4ajhCU2dLTWdrSkFJYktPS043cEFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUdWVWhsYW5SM1RHNVBRMHRLVFJDUkF4ajhCU2dLTWdrSkFJYktPS043cEFJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "5% Savings Yields Are Getting Harder to Find. Where to Put Cash Now",
+      "snippet": "For the past year savers have had it easy, with go-to options like Treasury bills and high-yield savings accounts routinely offering 4% to 5% yields.",
+      "publisher": "Barron's",
+      "timestamp": "1725569520000",
+      "newsUrl": "https://www.barrons.com/articles/high-yields-where-to-put-cash-now-d5be02d9",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNW5OMHRyYWpWeVUzWldUVUoyVFJDcUJCaXFCQ2dLTWdrQk1JSVN4YVNaaVFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNW5OMHRyYWpWeVUzWldUVUoyVFJDcUJCaXFCQ2dLTWdrQk1JSVN4YVNaaVFJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Lowest Rates in a Year and a Half. Friday Could Take Them Even Lower (Or Cause a Big Bounce)",
+      "snippet": "Wouldn't it be nice if you could know what was going to happen with mortgage rates before it actually happened? Since the dawn of time in financial markets, ...",
+      "publisher": "Mortgage News Daily",
+      "timestamp": "1725568333000",
+      "newsUrl": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-09052024",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVlOekpLWlZCbE4wbHJXVU5QVFJELUFoaW9CU2dLTWdzQkFJcnFoZTB0WnlydVZB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNVlOekpLWlZCbE4wbHJXVU5QVFJELUFoaW9CU2dLTWdzQkFJcnFoZTB0WnlydVZB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Kroger-Albertsons merger won’t repeat Haggen disaster, exec testifies",
+      "snippet": "An Albertsons executive said Thursday the selloff is a “completely different equation” from the disastrous sale of stores to the tiny Northwest grocery ...",
+      "publisher": "OregonLive",
+      "timestamp": "1725570240000",
+      "newsUrl": "https://www.oregonlive.com/business/2024/09/store-sell-off-in-kroger-albertsons-merger-is-different-equation-from-haggen-debacle-exec-says.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZkbFF6VEVSblUxOUlZVkYyVFJEZ0F4aUFCU2dLTWdZTmtKSkhzZ2M=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZkbFF6VEVSblUxOUlZVkYyVFJEZ0F4aUFCU2dLTWdZTmtKSkhzZ2M"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Skydance Tells FCC Paramount Deal Will Boost CBS And Local Stations; Larry Ellison Will Control Company After Merger",
+      "snippet": "Skydance and Paramount Global highlighted the impact that their proposed merger will have on CBS and local stations in a filing with the FCC that is part of ...",
+      "publisher": "Deadline",
+      "timestamp": "1725583320000",
+      "newsUrl": "https://deadline.com/2024/09/skydance-paramount-fcc-1236079534/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBlRmw2YTNnd2REWnROVTk0VFJEX0FoaXBCU2dLTWdZQlFJakZIZ2M=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBlRmw2YTNnd2REWnROVTk0VFJEX0FoaXBCU2dLTWdZQlFJakZIZ2M"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Gold Rallies, Yen Surges, Treasury Yields Fall As Disappointing Payrolls Data Supports Large Rate-Cut Bets",
+      "snippet": "U.S. employment growth lower in August triggered interest rate-sensitive asset rallies, while pushing Treasury yields down and increasing 50-basis-point Fed ...",
+      "publisher": "Benzinga",
+      "timestamp": "1725542584000",
+      "newsUrl": "https://www.benzinga.com/markets/equities/24/09/40730961/gold-rallies-yen-surges-treasury-yields-fall-as-disappointing-payrolls-data-supports-large-rate-",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRMVTlCV1ZCdlkwNXNZMGQ1VFJERUF4aW1CU2dLTWdZQkFJaEtHUVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRMVTlCV1ZCdlkwNXNZMGQ1VFJERUF4aW1CU2dLTWdZQkFJaEtHUVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "FDA has massive backlog of factory inspections as staffers leave for private sector jobs",
+      "snippet": "WASHINGTON (AP) — Federal regulators responsible for the safety of the U.S. drug supply are still struggling to get back to where they were in 2019, ...",
+      "publisher": "The Associated Press",
+      "timestamp": "1725616920000",
+      "newsUrl": "https://apnews.com/article/fda-inspections-drug-manufacturing-india-china-7b3a7e9b45bcc3aea86ce5bf781271f3",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhaV2h3WTJZeWJXMWlNMXBuVFJDUEF4alhCQ2dLTWdZQlFZS3NwUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHhaV2h3WTJZeWJXMWlNMXBuVFJDUEF4alhCQ2dLTWdZQlFZS3NwUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Nvidia denies receiving DOJ subpoena in antitrust probe",
+      "snippet": "A Bloomberg report initially claimed that Nvidia (NVDA) had been subpoenaed by the US Department of Justice over antitrust concerns.",
+      "publisher": "Yahoo Finance",
+      "timestamp": "1725543912000",
+      "newsUrl": "https://finance.yahoo.com/video/nvidia-denies-receiving-doj-subpoena-134512667.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9NVEJHT0RScGRYVm9ObmhJVFJDZkF4amlCU2dLTWdZdG81SXZ0UVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9NVEJHT0RScGRYVm9ObmhJVFJDZkF4amlCU2dLTWdZdG81SXZ0UVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "3 High-Yield Dividend Stocks to Buy Sooner Rather Than Later",
+      "snippet": "Arguably the most important decision for investors to make is which stocks to buy. But when to buy them ranks pretty high on the list, too.",
+      "publisher": "The Motley Fool",
+      "timestamp": "1725526380000",
+      "newsUrl": "https://www.fool.com/investing/2024/09/05/3-high-yield-dividend-stocks-to-buy-sooner-rather/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXFkMjlRZW5WRldGVkJRWGN3VFJERUF4aW1CU2dLTWdrWklvSXhJYVY3c3dB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXFkMjlRZW5WRldGVkJRWGN3VFJERUF4aW1CU2dLTWdrWklvSXhJYVY3c3dB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Port union voices unanimous support for strike, escalating U.S. supply chain fears",
+      "snippet": "The risk of East Coast and Gulf Coast port workers going on strike is rising, with billions in trade for industries from energy to autos likely to be ...",
+      "publisher": "CNBC",
+      "timestamp": "1725565651000",
+      "newsUrl": "https://www.cnbc.com/2024/09/05/port-union-voices-full-support-for-strike-raising-us-economic-fears.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlRakZsZVRkNVRGbGFNSFYzVFJDZkF4ampCU2dLTWdZVmNaVHVNQWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXlRakZsZVRkNVRGbGFNSFYzVFJDZkF4ampCU2dLTWdZVmNaVHVNQWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "1 'Strong Buy' AI Penny Stock With Breakout Potential",
+      "snippet": "Down 71% from all-time highs, Evolv Technologies is an AI penny stock that trades at a discount to consensus price target estimates.",
+      "publisher": "Nasdaq",
+      "timestamp": "1725586320000",
+      "newsUrl": "https://www.nasdaq.com/articles/1-strong-buy-ai-penny-stock-breakout-potential",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVJjbUpqYlRRNVVuWnpSM1YyVFJDbkFSaXRBaWdCTWdNcEVnSQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVJjbUpqYlRRNVVuWnpSM1YyVFJDbkFSaXRBaWdCTWdNcEVnSQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "DirecTV gives grim response to customers angry over Disney blackout",
+      "snippet": "DirecTV has responded to customers threatening to leave over the absence of Disney-owned channels.",
+      "publisher": "TheStreet",
+      "timestamp": "1725579180000",
+      "newsUrl": "https://www.thestreet.com/technology/directv-gives-grim-response-to-customers-angry-over-disney-blackout",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNW1WMjgxUXpObWFrcENSVmRyVFJDcUJCaXFCQ2dLTWdrQklJeGdINmtPTWdF=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNW1WMjgxUXpObWFrcENSVmRyVFJDcUJCaXFCQ2dLTWdrQklJeGdINmtPTWdF"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Notes from the Field: E-Cigarette and Nicotine ...",
+      "snippet": "This report describes e-cigarette and nicotine pouch use among middle and high school students.",
+      "publisher": "CDC",
+      "timestamp": "1725555564000",
+      "newsUrl": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7335a3.htm",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUZWa3hUZFdOWU5XaG5ZVUpHVFJDb0FSaXNBaWdCTWdrVk1vcnlvR2R5U3dJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUZWa3hUZFdOWU5XaG5ZVUpHVFJDb0FSaXNBaWdCTWdrVk1vcnlvR2R5U3dJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Markets are uneasy as a U.S. recession looks more likely",
+      "snippet": "Investors have been extra sensitive to weak economic data and talk about an upcoming recession.",
+      "publisher": "MarketWatch",
+      "timestamp": "1725570600000",
+      "newsUrl": "https://www.marketwatch.com/story/markets-are-uneasy-as-a-u-s-recession-looks-more-likely-3cecca30",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNDRUbm8wUVhKNWRVb3pSMU5CVFJDcUJCaXFCQ2dLTWdzQmNJeUF2R1VOTFFwbVZR=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNDRUbm8wUVhKNWRVb3pSMU5CVFJDcUJCaXFCQ2dLTWdzQmNJeUF2R1VOTFFwbVZR"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Why Tesla got 'brownie points' during a rocky week for autos",
+      "snippet": "It's been a tumultuous week for the auto industry as General Motors (GM) was downgraded by Wolfe Research, Volkswagen (VOW3.DE, VWAGY, VOW.",
+      "publisher": "Yahoo Finance",
+      "timestamp": "1725551500000",
+      "newsUrl": "https://finance.yahoo.com/video/why-tesla-got-brownie-points-155140294.html",
+      "hasSubnews": false
+    },
+    {
+      "title": "Donald Trump has lost $4 billion in wealth amid bumpy ride for Trump Media & Technology Group",
+      "snippet": "A slide in the market value of Trump Media has shaved billions in market value from the company behind Truth Social.",
+      "publisher": "CBS News",
+      "timestamp": "1725559148000",
+      "newsUrl": "https://www.cbsnews.com/news/trump-djt-stock-trump-media-technology-group-truth-social/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVRNSFJWU0d3eWJWVlNUVk0wVFJDUkF4ajhCU2dLTWdB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVRNSFJWU0d3eWJWVlNUVk0wVFJDUkF4ajhCU2dLTWdB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Mass layoffs hit tech industry: Over 27,000 jobs cut as Intel, Cisco, IBM, and Apple slash workforce",
+      "snippet": "Tech companies continued to cut jobs at a rapid pace in August 2024. More than 27,000 workers in the industry lost their jobs as over 40 companies, ...",
+      "publisher": "The Economic Times",
+      "timestamp": "1725509092000",
+      "newsUrl": "https://m.economictimes.com/jobs/hr-policies-trends/mass-layoffs-hit-tech-industry-over-27000-jobs-cut-as-intel-cisco-ibm-and-apple-slash-workforce/articleshow/113080323.cms",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZkRE53ZEhwcU1IaDBSRmxVVFJEZ0F4aUFCU2dLTWdZSkVJUUdRZ1E=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTZkRE53ZEhwcU1IaDBSRmxVVFJEZ0F4aUFCU2dLTWdZSkVJUUdRZ1E"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "BMW, Toyota take a risky gamble on a failing product",
+      "snippet": "The automakers' latest bet is much riskier than EVs.",
+      "publisher": "TheStreet",
+      "timestamp": "1725579420000",
+      "newsUrl": "https://www.thestreet.com/automotive/bmw-toyota-gamble-hydrogen",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNNekJGWlZOeVVWUmFWMDVSVFJERUF4aW1CU2dLTWdZTmNZcnlQQVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDNNekJGWlZOeVVWUmFWMDVSVFJERUF4aW1CU2dLTWdZTmNZcnlQQVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "NIO Earnings: NIO Shares Surge after Robust Q2 Results Beat Expectations",
+      "snippet": "Shares of NIO ($NIO) were on an upswing in pre-market trading after the Chinese EV major reported robust second-quarter results. In the second quarter, ...",
+      "publisher": "TipRanks",
+      "timestamp": "1725540675000",
+      "newsUrl": "https://www.tipranks.com/news/nio-earnings-nio-posts-robust-q2-results-issues-upbeat-outlook",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXlNWE5rTVd4U00yVklRMlpwVFJDV0F4anVCU2dLTWdrSmNZamxTU00xU3dJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXlNWE5rTVd4U00yVklRMlpwVFJDV0F4anVCU2dLTWdrSmNZamxTU00xU3dJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Should Super Micro Computer's Response to Short-Selling Report Ease Investor Fears?",
+      "snippet": "The stock has struggled following a weak earnings report and a short-selling report.",
+      "publisher": "The Motley Fool",
+      "timestamp": "1725547740000",
+      "newsUrl": "https://www.fool.com/investing/2024/09/05/should-super-micro-computers-response-to-short-sel/",
+      "hasSubnews": false
+    },
+    {
+      "title": "Uh oh, Elon: Half of European marketers plan to cut spending on X ads",
+      "snippet": "The advertising exodus from X is set to accelerate. In 2025, almost half of marketers in Europe and North America plan to cut their spending on the platform ...",
+      "publisher": "TNW",
+      "timestamp": "1725534540000",
+      "newsUrl": "https://thenextweb.com/news/marketers-cut-advertising-on-elon-musk-x",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1SbEJyZGpKS1drbHdkbHBNVFJDZkF4ampCU2dLTWdheFU0UXlwUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW1SbEJyZGpKS1drbHdkbHBNVFJDZkF4ampCU2dLTWdheFU0UXlwUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Tesla On Track To Extend Gains: What's Driving EV Maker's Stock Higher In Premarket",
+      "snippet": "Tesla shares has picked up some momentum following their underperformance seen since the start of 2023.",
+      "publisher": "Benzinga",
+      "timestamp": "1725534978000",
+      "newsUrl": "https://www.benzinga.com/markets/equities/24/09/40726874/tesla-on-track-to-extend-gains-whats-driving-ev-makers-stock-higher-in-premarket",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDBRVjkwUzI5Wk5GSkdaazlUVFJERUF4aW1CU2dLTWdrQkFvb2dLNmhNUmdJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDBRVjkwUzI5Wk5GSkdaazlUVFJERUF4aW1CU2dLTWdrQkFvb2dLNmhNUmdJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Apple iPhone 16 Event Not 'Sell The News,' Analyst Says: 'Shares Could Move Higher'",
+      "snippet": "Apple stock is flat over the last 60 days, which might make the iPhone 16 Sept. 9 event less of a \"sell the news\" event than in the past.",
+      "publisher": "Benzinga",
+      "timestamp": "1725558221000",
+      "newsUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/24/09/40737548/apple-iphone-16-event-not-sell-the-news-analyst-says-shares-could-move-higher",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJkbTVrVkU5eWQwaHlNME10VFJERUF4aW1CU2dLTWdhbE00U05NUVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDJkbTVrVkU5eWQwaHlNME10VFJERUF4aW1CU2dLTWdhbE00U05NUVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Short seller Andrew Left's fraud trial moved to September 2025",
+      "snippet": "Prominent activist short seller Andrew Left will face trial in September 2025 over allegations he committed fraud, after his lawyers and U.S. prosecutors ...",
+      "publisher": "Reuters",
+      "timestamp": "1725577818000",
+      "newsUrl": "https://www.reuters.com/legal/short-seller-andrew-lefts-fraud-trial-moved-september-2025-2024-09-05/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5SVVpWYVRkak1sWjVVVEV5VFJDUUF4ai1CU2dLTWdhbGRJN01yUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW5SVVpWYVRkak1sWjVVVEV5VFJDUUF4ai1CU2dLTWdhbGRJN01yUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Elon Musk snubbed from TIME’s ‘Most Influential People in AI’ list",
+      "snippet": "Tesla CEO Elon Musk was snubbed from TIME Magazine's “Most Influential People in AI” list, despite being the driving force behind the company's self-driving ...",
+      "publisher": "TESLARATI",
+      "timestamp": "1725552930000",
+      "newsUrl": "https://www.teslarati.com/elon-musk-snubbed-time-most-influential-people-in-ai-list/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpWbUUzYVZsa1pEUkJZWE5vVFJDNEF4aTRCU2dLTWdZeGRJaVBNUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpWbUUzYVZsa1pEUkJZWE5vVFJDNEF4aTRCU2dLTWdZeGRJaVBNUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Bankrupt Home Depot rival forced to liquidate remaining stores",
+      "snippet": "Iconic home improvement retail chain will close and liquidate all of its stores after two stalking-horse bids for its assets fall through.",
+      "publisher": "TheStreet",
+      "timestamp": "1725568919000",
+      "newsUrl": "https://www.thestreet.com/retail/bankrupt-home-depot-rival-forced-to-liquidate-remaining-stores",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU1aelF3UW1GSmJVNUlkVTVXVFJDUUF4ai1CU2dLTWdhdEZJcVBGUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU1aelF3UW1GSmJVNUlkVTVXVFJDUUF4ai1CU2dLTWdhdEZJcVBGUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Exclusive | Nvidia and Other Investors Back Applied Digital With $160 Million in Funding - WSJ",
+      "snippet": "Capital is expected to help data-center and AI cloud company grow.",
+      "publisher": "The Wall Street Journal",
+      "timestamp": "1725539400000",
+      "newsUrl": "https://www.wsj.com/tech/ai/nvidia-and-other-investors-back-applied-digital-with-160-million-in-funding-76157532",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNWhkVVozVVU1TWJIaElZMDVOVFJERUF4aW1CU2dLTWdzQmNJb0xyT2E0OUppcVd3=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNWhkVVozVVU1TWJIaElZMDVOVFJERUF4aW1CU2dLTWdzQmNJb0xyT2E0OUppcVd3"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Low US weekly jobless claims assuage fears of labor market deterioration",
+      "snippet": "The number of Americans filing new applications for jobless benefits declined last week as layoffs remained low, helping to allay fears that the labor ...",
+      "publisher": "Reuters",
+      "timestamp": "1725595680000",
+      "newsUrl": "https://www.reuters.com/markets/us/us-weekly-jobless-claims-decline-layoffs-remain-low-2024-09-05/",
+      "hasSubnews": false
+    },
+    {
+      "title": "Private sector job growth cools to 99,000 in August, well below estimate: ADP",
+      "snippet": "Job growth in the private sector was slower than expected in August, as ADP's report showed a gain of 99000 jobs, fewer than the 145000 expected ...",
+      "publisher": "Fox Business",
+      "timestamp": "1725544200000",
+      "newsUrl": "https://www.foxbusiness.com/economy/private-sector-job-growth-cools-99000-august-well-below-estimate-adp",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUpUalY2TjNWbVYyTmpja1ZNVFJDZkF4ampCU2dLTWdrQm9Jckd2S1Y1VlFF=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUpUalY2TjNWbVYyTmpja1ZNVFJDZkF4ampCU2dLTWdrQm9Jckd2S1Y1VlFF"
+      },
+      "hasSubnews": false
+    }
+  ]
+}
